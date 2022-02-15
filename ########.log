@@ -11,11 +11,11 @@ VC 9.0 RTM (x86) found
 VC 9.0 SP1 (x86) found
 Operating system=Windows 8 build 6.2.9200  [x64]
 Processor=AMD Ryzen 5 2600 Six-Core Processor (12 cores)
-CPU Clock=3427 MHz
+CPU Clock=3422 MHz
 Physical Memory Total=16332 MB
-Physical Memory Available=9759 MB
+Physical Memory Available=10886 MB
 Page File Total=23756 MB
-Page File Available=13498 MB
+Page File Available=12721 MB
 Virtual Memory Total=4095 MB
 Virtual Memory Available=3991 MB
 Cache Size=393216 KB
@@ -46,18 +46,20 @@ fPanelLoad... ok
 Load MatrixGame.dll .... ok
 Robot.Support()=0
 music\1c.dat
-Physical memory usage is increasing (6815 MB)
+Physical memory usage is increasing (5671 MB)
 Memory Info
 Physical Memory:
-Used=6978896 KB
-Available=9745556 KB
+Used=5807392 KB
+Available=10917060 KB
 Total=16724452 KB
 Virtual Memory:
-Used=538072 KB
-Available=3656104 KB
+Used=499748 KB
+Available=3694428 KB
 Total=4194176 KB
-Cache Size=211278 KB
+Cache Size=188534 KB
 Textures Cache Size=0 KB
+music\logo.dat
+music\snk.dat
 fPanelLoad... ok
 fMainForm... ok
 fPlanetQuest... ok
@@ -133,477 +135,307 @@ fPanelLoad... ok
 fLoadQuest... ok
 fLoadAB... ok
 fAchievements... ok
-music\fly\hyperdream2.dat
+music\rev\theo_running_away.dat
 Rescaling Bm.FormMain2.2AnimMain... ok
-music\planet\fei1.dat
-Rescaling Bm.City.Fei... ok
-music\planet\fei1.dat
-music\special\hymn.dat
-music\fly\starflight.dat
-Rescaling Bm.FormPQuest2.2S2... ok
-Rescaling Bm.FormPQuest2.2Panel... ok
-music\planet\fei1.dat
-music\planet\fei1.dat
-music\special\hymn.dat
-music\rev\nikinit_flight_to_the_moon.dat
-music\planet\fei1.dat
-music\planet\fei1.dat
-music\special\hymn.dat
-music\fly\starflight.dat
-Physical memory usage is increasing (7074 MB)
-Memory Info
-Physical Memory:
-Used=7245524 KB
-Available=9478928 KB
-Total=16724452 KB
-Virtual Memory:
-Used=771288 KB
-Available=3422888 KB
-Total=4194176 KB
-Cache Size=331201 KB
-Textures Cache Size=65825 KB
-music\quests\gladiator.dat
-music\rev\your_favourite_spaceship.dat
-music\rev\engine_warming.dat
-music\planet\fei1.dat
-music\planet\fei1.dat
-music\special\hymn.dat
-Virtual memory usage is increasing (783 MB)
-Memory Info
-Physical Memory:
-Used=7270588 KB
-Available=9453864 KB
-Total=16724452 KB
-Virtual Memory:
-Used=802268 KB
-Available=3391908 KB
-Total=4194176 KB
-Cache Size=333171 KB
-Textures Cache Size=65420 KB
-music\rev\nikinit_flight_to_the_moon.dat
-Virtual memory usage is decreasing (514 MB)
-Memory Info
-Physical Memory:
-Used=6988232 KB
-Available=9736220 KB
-Total=16724452 KB
-Virtual Memory:
-Used=526576 KB
-Available=3667600 KB
-Total=4194176 KB
-Cache Size=59832 KB
-Textures Cache Size=64390 KB
-Physical memory usage is decreasing (6813 MB)
-Memory Info
-Physical Memory:
-Used=6976840 KB
-Available=9747612 KB
-Total=16724452 KB
-Virtual Memory:
-Used=517440 KB
-Available=3676736 KB
-Total=4194176 KB
-Cache Size=59832 KB
-Textures Cache Size=65957 KB
-music\planet\fei1.dat
-music\rev\nikinit_star_trooper.dat
-music\rev\engine_warming.dat
-music\rev\nikinit_pulsar.dat
-music\planet\fei1.dat
 music\rev\nikinit_meteorit_rain.dat
-Virtual memory usage is increasing (775 MB)
-Memory Info
-Physical Memory:
-Used=7230288 KB
-Available=9494164 KB
-Total=16724452 KB
-Virtual Memory:
-Used=794316 KB
-Available=3399860 KB
-Total=4194176 KB
-Cache Size=173973 KB
-Textures Cache Size=180129 KB
-Physical memory usage is increasing (7070 MB)
-Memory Info
-Physical Memory:
-Used=7240628 KB
-Available=9483824 KB
-Total=16724452 KB
-Virtual Memory:
-Used=794316 KB
-Available=3399860 KB
-Total=4194176 KB
-Cache Size=173993 KB
-Textures Cache Size=185599 KB
-music\planet\people.dat
-Rescaling Bm.City.People... ok
-Rescaling Bm.Gov.2PeopleBGi... ok
+music\fly\fly12.dat
+music\special\spaceiscalling.dat
+Rescaling Bm.FormRuins.2WBbg... ok
 Rescaling Bm.FormGov2.2TWinB... ok
 Rescaling Bm.FormGov2.2TWin... ok
+Rescaling Bm.FormInfo3.2BG... ok
 Rescaling Bm.FormShop2.2bg... ok
-Rescaling Bm.FormShop2.2People... ok
-music\fly\trash.dat
-Physical memory usage is increasing (7330 MB)
+Rescaling Bm.FormShop2.2Peleng... ok
+music\planet\weapon.dat
+Virtual memory usage is increasing (794 MB)
 Memory Info
 Physical Memory:
-Used=7506800 KB
-Available=9217652 KB
+Used=5981436 KB
+Available=10743016 KB
 Total=16724452 KB
 Virtual Memory:
-Used=784572 KB
-Available=3409604 KB
+Used=813080 KB
+Available=3381096 KB
 Total=4194176 KB
-Cache Size=204938 KB
-Textures Cache Size=127128 KB
-Physical memory usage is decreasing (6983 MB)
-Memory Info
-Physical Memory:
-Used=7151604 KB
-Available=9572848 KB
-Total=16724452 KB
-Virtual Memory:
-Used=772868 KB
-Available=3421308 KB
-Total=4194176 KB
-Cache Size=207475 KB
-Textures Cache Size=0 KB
-music\fly\theo-inside.dat
-Rescaling Bm.FormRuins.2BKbg... ok
-music\rev\nikinit_two_stars.dat
-music\fly\theo-inside.dat
-music\planet\people.dat
-music\rev\nikinit_through_the_stars.dat
+Cache Size=209609 KB
+Textures Cache Size=77794 KB
 music\special\spaceiscalling.dat
-Rescaling Bm.FormRuins.2PBbg... ok
-music\rev\human_pirate.dat
-music\rev\nikinit_through_the_stars.dat
-music\planet\malloc4.dat
-Rescaling Bm.City.Maloc... ok
-music\fly\surf.dat
-Physical memory usage is increasing (7240 MB)
-Memory Info
-Physical Memory:
-Used=7414096 KB
-Available=9310356 KB
-Total=16724452 KB
-Virtual Memory:
-Used=913572 KB
-Available=3280604 KB
-Total=4194176 KB
-Cache Size=294161 KB
-Textures Cache Size=145282 KB
-music\planet\malloc4.dat
-music\fly\fly3.dat
-music\special\spaceiscalling.dat
-Rescaling Bm.FormRuins.2SBbg... ok
+music\planet\weapon.dat
+music\fly\hyperdream2.dat
 music\planet\fei1.dat
-music\fly\trash.dat
+Rescaling Bm.City.Fei... ok
+Rescaling Bm.Gov.2FeiBGi... ok
+music\fly\hyperdream2.dat
 music\planet\weapon.dat
 Rescaling Bm.City.Peleng... ok
 Rescaling Bm.Gov.2PelengBGi... ok
-music\rev\wen_children_of_eltan.dat
-music\planet\weapon.dat
-music\fly\trash.dat
-music\planet\fei1.dat
-Rescaling Bm.FormShop2.2Fei... ok
-Rescaling Bm.Gov.2FeiBGi... ok
-music\fly\fly3.dat
-music\fly\theo-inside.dat
-music\planet\people.dat
-Virtual memory usage is increasing (1032 MB)
+music\rev\nikinit_two_stars.dat
+Physical memory usage is increasing (5929 MB)
 Memory Info
 Physical Memory:
-Used=7481176 KB
-Available=9243276 KB
+Used=6072236 KB
+Available=10652216 KB
 Total=16724452 KB
 Virtual Memory:
-Used=1057768 KB
-Available=3136408 KB
+Used=848748 KB
+Available=3345428 KB
 Total=4194176 KB
-Cache Size=393199 KB
-Textures Cache Size=83640 KB
-music\fly\starflight.dat
-music\special\spaceiscalling.dat
-music\fly\starflight.dat
+Cache Size=259349 KB
+Textures Cache Size=116443 KB
 music\planet\people.dat
-music\fly\fly12.dat
+Rescaling Bm.City.People... ok
+Rescaling Bm.FormShop2.2People... ok
+Rescaling Bm.Gov.2PeopleBGi... ok
+music\planet\people.dat
+music\rev\theo_running_away.dat
+music\planet\people.dat
+music\rev\nikinit_two_stars.dat
+music\fly\theo-inside.dat
+Rescaling Bm.FormRuins.2BKbg... ok
+music\rev\nikinit_polet.dat
+music\rev\malloc_pirate.dat
+Rescaling Bm.City.MalocPirate... ok
+Rescaling Bm.Gov.MalocPirateBG... ok
+music\rev\malloc_pirate.dat
+music\rev\theo_waiting_for_you.dat
+music\rev\nikinit_two_stars.dat
+music\battle\fight2.dat
+music\rev\malloc_pirate.dat
+music\rev\nikinit_illusion.dat
+Rescaling Bm.FormPQuest2.2S2... ok
+Rescaling Bm.FormPQuest2.2Panel... ok
+music\rev\nikinit_pulsar.dat
+music\special\outroden.dat
+music\rev\your_favourite_spaceship.dat
+music\rev\nikinit_flight_to_the_moon.dat
+music\rev\nikinit_pulsar.dat
+music\rev\nikinit_illuminator.dat
+music\quests\gladiator.dat
+music\rev\nikinit_two_stars.dat
+Physical memory usage is increasing (6190 MB)
+Memory Info
+Physical Memory:
+Used=6338588 KB
+Available=10385864 KB
+Total=16724452 KB
+Virtual Memory:
+Used=1016648 KB
+Available=3177528 KB
+Total=4194176 KB
+Cache Size=346714 KB
+Textures Cache Size=204477 KB
 music\battle\boy1.dat
-music\fly\surf.dat
+music\rev\nikinit_two_stars.dat
+music\battle\boy1.dat
+music\special\hymn.dat
+Rescaling Bm.FormEnd2.PanelBottom... ok
+Rescaling Bm.FormEnd2.PanelTop... ok
+Virtual memory usage is increasing (1055 MB)
+Memory Info
+Physical Memory:
+Used=6140648 KB
+Available=10583804 KB
+Total=16724452 KB
+Virtual Memory:
+Used=1080600 KB
+Available=3113576 KB
+Total=4194176 KB
+Cache Size=362815 KB
+Textures Cache Size=16294 KB
+music\rev\malloc_pirate.dat
+music\rev\malloc_pirate.dat
+music\rev\theo_waiting_for_you.dat
+music\rev\nikinit_two_stars.dat
+Physical memory usage is increasing (6448 MB)
+Memory Info
+Physical Memory:
+Used=6605564 KB
+Available=10118888 KB
+Total=16724452 KB
+Virtual Memory:
+Used=1036972 KB
+Available=3157204 KB
+Total=4194176 KB
+Cache Size=363306 KB
+Textures Cache Size=171589 KB
+music\rev\malloc_pirate.dat
+music\rev\nikinit_two_stars.dat
+music\rev\nikinit_fighter.dat
+music\rev\nikinit_two_stars.dat
+music\rev\nikinit_fighter.dat
+music\planet\malloc4.dat
+Rescaling Bm.Gov.2MalocBGi... ok
+Rescaling Bm.City.Maloc... ok
+music\planet\malloc4.dat
+music\fly\beyond_reach.dat
+music\rev\nikinit_through_the_stars.dat
+music\fly\theo-inside.dat
+music\fly\longway.dat
 music\planet\gaal.dat
 Rescaling Bm.City.Gaal... ok
-Rescaling Bm.Gov.2GaalBGi... ok
-music\rev\your_favourite_spaceship.dat
-music\battle\boy1.dat
-music\rev\nikinit_polet.dat
-music\rev\nikinit_warman.dat
-music\rev\engine_warming.dat
 music\planet\gaal.dat
+music\fly\beyond_reach.dat
+Physical memory usage is decreasing (6191 MB)
+Memory Info
+Physical Memory:
+Used=6339828 KB
+Available=10384624 KB
+Total=16724452 KB
+Virtual Memory:
+Used=1118284 KB
+Available=3075892 KB
+Total=4194176 KB
+Cache Size=387536 KB
+Textures Cache Size=5058 KB
+music\planet\gaal.dat
+music\planet\gaal.dat
+music\fly\beyond_reach.dat
+music\planet\gaal.dat
+music\planet\gaal.dat
+music\fly\longway.dat
+Rescaling Bm.Gov.2GaalBGi... ok
 Rescaling Bm.FormShop2.2Gaal... ok
-music\fly\hyperdream2.dat
+music\planet\gaal.dat
+music\fly\fly12.dat
+music\planet\weapon.dat
+music\fly\starflight.dat
+music\special\outroden.dat
+Rescaling Bm.FormRuins.2MCbg... ok
+music\fly\starflight.dat
 music\special\spaceiscalling.dat
 Rescaling Bm.FormRuins.2WBbg... ok
 Rescaling Bm.FormShop2.2Peleng... ok
 music\fly\starflight.dat
+music\special\spaceiscalling.dat
+music\fly\trash.dat
+music\planet\fei1.dat
+Rescaling Bm.City.Fei... ok
+Rescaling Bm.Gov.2FeiBGi... ok
+music\fly\trash.dat
+music\planet\fei1.dat
+music\rev\nikinit_pulsar.dat
+music\planet\gaal.dat
+music\fly\fly12.dat
 music\fly\theo-inside.dat
-music\planet\people.dat
-music\fly\starflight.dat
-music\planet\fei1.dat
-music\fly\starflight.dat
-music\planet\fei1.dat
+Rescaling Bm.FormShop2.2People... ok
+music\rev\engine_warming.dat
+music\planet\malloc4.dat
+music\rev\theo_just_listen.dat
+music\planet\malloc4.dat
+Rescaling Bm.FormInfo3.2BG... ok
+music\rev\theo_just_listen.dat
+music\rev\nikinit_pulsar.dat
+music\special\outroden.dat
+Rescaling Bm.FormRuins.2SBbg... ok
+Rescaling Bm.FormShop2.2Fei... ok
+music\rev\nikinit_wandering_warrior.dat
+music\planet\malloc4.dat
 music\fly\awakening.dat
-music\fly\theo-inside.dat
-music\fly\longway.dat
-music\planet\fei1.dat
-music\rev\nikinit_two_stars.dat
-music\planet\fei1.dat
-music\rev\nikinit_two_stars.dat
-music\planet\fei1.dat
-music\rev\nikinit_two_stars.dat
-music\planet\fei1.dat
-music\rev\nikinit_two_stars.dat
-music\special\spaceiscalling.dat
-music\rev\nikinit_two_stars.dat
-music\fly\theo-inside.dat
-music\planet\people.dat
-music\rev\nikinit_two_stars.dat
-music\special\spaceiscalling.dat
-music\rev\nikinit_meteorit_rain.dat
+music\battle\boy1.dat
+Physical memory usage is increasing (6450 MB)
+Memory Info
+Physical Memory:
+Used=6607552 KB
+Available=10116900 KB
+Total=16724452 KB
+Virtual Memory:
+Used=1218832 KB
+Available=2975344 KB
+Total=4194176 KB
+Cache Size=385130 KB
+Textures Cache Size=176170 KB
+music\fly\fly3.dat
+music\planet\weapon.dat
+music\fly\starflight.dat
 music\rev\nikinit_fighter.dat
+Physical memory usage is decreasing (6186 MB)
+Memory Info
+Physical Memory:
+Used=6335324 KB
+Available=10389128 KB
+Total=16724452 KB
+Virtual Memory:
+Used=1152616 KB
+Available=3041560 KB
+Total=4194176 KB
+Cache Size=392950 KB
+Textures Cache Size=0 KB
+music\planet\gaal.dat
+music\fly\awakening.dat
+music\battle\fight2.dat
 music\special\hymn.dat
 Rescaling Bm.FormEnd2.PanelBottom... ok
 Rescaling Bm.FormEnd2.PanelTop... ok
-music\fly\theo-inside.dat
-music\planet\people.dat
-music\rev\nikinit_meteorit_rain.dat
-music\special\outroden.dat
-Rescaling Bm.FormRuins.2MCbg... ok
-music\planet\gaal.dat
-music\rev\nikinit_wandering_warrior.dat
-Physical memory usage is increasing (7507 MB)
-Memory Info
-Physical Memory:
-Used=7687600 KB
-Available=9036852 KB
-Total=16724452 KB
-Virtual Memory:
-Used=1218688 KB
-Available=2975488 KB
-Total=4194176 KB
-Cache Size=392370 KB
-Textures Cache Size=153136 KB
-music\special\spaceiscalling.dat
-Rescaling Bm.FormRuins.2PBbg... ok
-Rescaling Bm.FormShop2.2People... ok
-music\rev\human_pirate.dat
-music\rev\nikinit_quazar.dat
-music\rev\nikinit_warman.dat
-music\planet\malloc4.dat
-Rescaling Bm.City.Maloc... ok
-music\rev\engine_warming.dat
-Physical memory usage is decreasing (7248 MB)
-Memory Info
-Physical Memory:
-Used=7422224 KB
-Available=9302228 KB
-Total=16724452 KB
-Virtual Memory:
-Used=1111632 KB
-Available=3082544 KB
-Total=4194176 KB
-Cache Size=358285 KB
-Textures Cache Size=0 KB
-music\battle\boy1.dat
-music\rev\engine_warming.dat
-music\fly\theo-inside.dat
-music\fly\trash.dat
-music\special\outroden.dat
-Rescaling Bm.FormRuins.2SBbg... ok
-music\rev\nikinit_through_the_stars.dat
-music\planet\malloc4.dat
-Rescaling Bm.FormInfo3.2BG... ok
-music\fly\trash.dat
-music\planet\weapon.dat
-Rescaling Bm.City.Peleng... ok
-Rescaling Bm.Gov.2PelengBGi... ok
-music\rev\nikinit_quazar.dat
-music\planet\gaal.dat
-Rescaling Bm.City.Gaal... ok
-Rescaling Bm.FormShop2.2Gaal... ok
-music\fly\theo-inside.dat
-Rescaling Bm.FormRuins.2WBbg... ok
-music\planet\weapon.dat
-music\rev\nikinit_through_the_stars.dat
-music\planet\weapon.dat
-music\rev\nikinit_two_stars.dat
-music\planet\people.dat
-Rescaling Bm.City.People... ok
-Rescaling Bm.Gov.2PeopleBGi... ok
-Rescaling Bm.FormShop2.2People... ok
-music\rev\nikinit_meteorit_rain.dat
-music\planet\gaal.dat
-music\rev\your_favourite_spaceship.dat
 music\planet\gaal.dat
 music\planet\gaal.dat
 music\rev\theo_running_away.dat
-music\rev\your_favourite_spaceship.dat
-music\planet\weapon.dat
-music\rev\nikinit_two_stars.dat
 music\planet\gaal.dat
-music\fly\hyperdream2.dat
-music\planet\fei1.dat
-Rescaling Bm.City.Fei... ok
-Rescaling Bm.Gov.2FeiBGi... ok
-music\fly\hyperdream2.dat
-Physical memory usage is increasing (7508 MB)
+music\fly\awakening.dat
+music\battle\boy1.dat
+music\special\hymn.dat
+music\planet\gaal.dat
+music\planet\gaal.dat
+music\special\hymn.dat
+music\fly\awakening.dat
+music\battle\fight2.dat
+music\fly\starflight.dat
+Physical memory usage is increasing (6447 MB)
 Memory Info
 Physical Memory:
-Used=7688400 KB
-Available=9036052 KB
+Used=6601404 KB
+Available=10123048 KB
 Total=16724452 KB
 Virtual Memory:
-Used=1166396 KB
-Available=3027780 KB
+Used=1161052 KB
+Available=3033124 KB
 Total=4194176 KB
-Cache Size=367729 KB
-Textures Cache Size=51930 KB
-music\planet\malloc4.dat
-Rescaling Bm.Gov.2MalocBGi... ok
-music\rev\nikinit_last_flight.dat
-Physical memory usage is decreasing (7243 MB)
+Cache Size=389264 KB
+Textures Cache Size=196846 KB
+music\planet\gaal.dat
+music\fly\awakening.dat
+music\fly\theo-inside.dat
+music\rev\nikinit_pulsar.dat
+Physical memory usage is decreasing (6164 MB)
 Memory Info
 Physical Memory:
-Used=7417352 KB
-Available=9307100 KB
+Used=6312272 KB
+Available=10412180 KB
 Total=16724452 KB
 Virtual Memory:
-Used=1121184 KB
-Available=3072992 KB
+Used=1132300 KB
+Available=3061876 KB
 Total=4194176 KB
-Cache Size=365447 KB
+Cache Size=370059 KB
 Textures Cache Size=0 KB
-music\planet\people.dat
-music\fly\awakening.dat
-music\battle\fight2.dat
-music\special\outroden.dat
-music\rev\nikinit_meteorit_rain.dat
-music\fly\theo-inside.dat
-Rescaling Bm.FormRuins.2RCbg... ok
-music\planet\gaal.dat
-music\rev\nikinit_quazar.dat
-music\planet\people.dat
-music\fly\fly12.dat
-music\rev\nikinit_fighter.dat
-music\fly\surf.dat
-music\planet\gaal.dat
-music\fly\hyperdream2.dat
-music\battle\fight2.dat
-music\special\hymn.dat
-Rescaling Bm.FormEnd2.PanelBottom... ok
-Rescaling Bm.FormEnd2.PanelTop... ok
-music\planet\gaal.dat
-music\planet\gaal.dat
-music\special\hymn.dat
-Rescaling Bm.FormInfo3.2BG... ok
-music\planet\gaal.dat
-music\fly\hyperdream2.dat
-music\planet\fei1.dat
-music\rev\nikinit_through_the_stars.dat
-music\fly\trash.dat
-Physical memory usage is increasing (7509 MB)
-Memory Info
-Physical Memory:
-Used=7689600 KB
-Available=9034852 KB
-Total=16724452 KB
-Virtual Memory:
-Used=1209984 KB
-Available=2984192 KB
-Total=4194176 KB
-Cache Size=379280 KB
-Textures Cache Size=158725 KB
-music\planet\fei1.dat
-music\rev\nikinit_through_the_stars.dat
-music\rev\nikinit_fight3.dat
-music\fly\fly12.dat
-music\battle\fight2.dat
-music\planet\fei1.dat
-music\rev\nikinit_through_the_stars.dat
-music\rev\nikinit_warman.dat
-music\planet\fei1.dat
-music\rev\nikinit_through_the_stars.dat
-music\rev\nikinit_fight3.dat
-music\rev\theo_just_listen.dat
-music\planet\malloc4.dat
-music\rev\engine_warming.dat
-music\battle\fight2.dat
-music\rev\theo_just_listen.dat
-music\fly\theo-inside.dat
-Rescaling Bm.FormRuins.2WBbg... ok
+music\planet\weapon.dat
 Rescaling Bm.FormShop2.2Peleng... ok
-music\planet\weapon.dat
-music\fly\awakening.dat
-music\battle\boy1.dat
-music\fly\fly12.dat
-music\rev\nikinit_warman.dat
-music\special\hymn.dat
 music\fly\theo-inside.dat
-music\planet\weapon.dat
-Virtual memory usage is increasing (1289 MB)
-Memory Info
-Physical Memory:
-Used=7702160 KB
-Available=9022292 KB
-Total=16724452 KB
-Virtual Memory:
-Used=1320300 KB
-Available=2873876 KB
-Total=4194176 KB
-Cache Size=380212 KB
-Textures Cache Size=89789 KB
-music\fly\awakening.dat
-music\special\spaceiscalling.dat
-Rescaling Bm.FormRuins.2PBbg... ok
-music\rev\human_pirate.dat
-music\fly\awakening.dat
-music\rev\nikinit_fight3.dat
-music\special\hymn.dat
-music\special\spaceiscalling.dat
-music\rev\human_pirate.dat
-music\fly\awakening.dat
 music\fly\theo-inside.dat
-Rescaling Bm.FormRuins.2BKbg... ok
+music\rev\theo_waiting_for_you.dat
 music\planet\people.dat
-music\fly\awakening.dat
-music\planet\fei1.dat
-Rescaling Bm.Gov.2FeiBGi... ok
 music\rev\nikinit_polet.dat
-music\planet\gaal.dat
-Rescaling Bm.Gov.2GaalBGi... ok
-music\rev\nikinit_through_the_stars.dat
-music\battle\boy1.dat
-music\fly\beyond_reach.dat
+music\planet\weapon.dat
+music\rev\nikinit_polet.dat
 music\planet\people.dat
 Rescaling Bm.City.People... ok
-Rescaling Bm.Gov.2PeopleBGi... ok
-Rescaling Bm.FormShop2.2People... ok
 music\fly\hyperdream2.dat
+music\planet\weapon.dat
+music\rev\theo_just_listen.dat
 music\fly\theo-inside.dat
-Rescaling Bm.FormInfo3.2BG... ok
-music\planet\people.dat
-music\rev\nikinit_through_the_stars.dat
-music\planet\gaal.dat
+music\rev\nikinit_wandering_warrior.dat
+music\planet\malloc4.dat
+music\rev\nikinit_pulsar.dat
+music\special\spaceiscalling.dat
+Rescaling Bm.FormRuins.2PBbg... ok
 music\rev\wen_children_of_eltan.dat
-music\rev\nikinit_warman.dat
-music\special\hymn.dat
-music\planet\gaal.dat
+music\planet\malloc4.dat
 music\rev\wen_children_of_eltan.dat
-music\planet\fei1.dat
-music\fly\fly12.dat
-music\planet\fei1.dat
-music\rev\wen_children_of_eltan.dat
-music\planet\fei1.dat
+music\planet\malloc4.dat
 music\rev\wen_children_of_eltan.dat
 music\fly\theo-inside.dat
-music\rev\nikinit_quazar.dat
+music\rev\nikinit_star_trooper.dat
+music\planet\gaal.dat
+music\fly\fly3.dat
+music\planet\gaal.dat
 music\rev\theo_running_away.dat
 Rescaling Bm.FormMain2.2AnimMain... ok
